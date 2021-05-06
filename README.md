@@ -9,7 +9,7 @@ Ps. Although these days, I think I'm falling in love with vuejs 🤫(Don't tell 
 
 🔭 Whenever I'm not building, you can find me trying out a tasty meal/punch or by the beach side eating turkey with a glass of Wine.🌱😋
 
-⚡ Currently, I lead engineering at [Vesicash](https://vesicash.com) and I write technical articles at [Vesicash Engineering Blog](https://engineering.vesicash.com)
+⚡ Currently, I manage engineering at [Vesicash](https://vesicash.com) and I write technical articles at [Vesicash Engineering Blog](https://engineering.vesicash.com)
 <!--
 **Preshy/preshy.github.io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
